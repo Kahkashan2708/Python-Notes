@@ -122,3 +122,4 @@ Using- len(list)  # 'list' is list name
 
       (e) Cannot be a reserved keyword (like global, class, if, etc)
        
+20. __init__ is a special method in Python used to initialize an object's state when a new instance of a   class is created.       
